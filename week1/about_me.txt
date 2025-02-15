@@ -1,0 +1,1 @@
+i Motivation for Learning Node.js is to able me to use JavaScript. 
