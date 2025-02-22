@@ -1,0 +1,13 @@
+$ git rm --cached -r projects
+$ git init
+$ git add .
+$ git commit -m "first commit - committing all files to the repository"
+$ git remote add origin https://github.com/Adewunmi0303/my-first-project.git
+$ git branch -M master
+$ git push -u origin master
+$ git clone https://github.com/Adewunmi0303/my-first-project.git
+$ touch goals.txt
+$ git vim goals.txt
+$ git add goals.txt
+$ git commit -m "goals.txt"
+$ git push --all
